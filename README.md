@@ -3,7 +3,7 @@
 <h3 align="center">Senior Software Engineer @Capgemini | Java Full Stack Developer With React/Angular</h3>
 <hr/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prashantkr2601&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkr2601" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sdharkar&label=Profile%20views&color=0e75b6&style=flat" alt="sdharkar" /> </p>
 
 - 🌱 I’m currently working at **Capgemini**.
 
